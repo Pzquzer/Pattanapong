@@ -1,84 +1,110 @@
-# Hi, I'm Pattanapong Paspisanu 👋
+# Pattanapong Paspisanu
 
-**Software Developer · System Analyst · Dev Lead**
+Senior Software Engineer | Full-stack Developer | System Analyst | Team Lead
 
-Software developer with about 8 years of experience (2018 – present), currently a System Analyst and Dev Lead at **Forviz**, leading teams of 3–5 on government, state-enterprise and large private-sector projects.
+Phone: +66 97-232-1135 | Email: [paddlepop15@gmail.com](mailto:paddlepop15@gmail.com) | LinkedIn: [linkedin.com/in/pattanapong-paspisanu-24753a207](https://www.linkedin.com/in/pattanapong-paspisanu-24753a207)
 
-I enjoy designing systems that connect to the real world: ERP integration (SAP S/4HANA), bank payment gateways, and platforms used across hundreds of real-estate projects.
+## Professional Summary
 
-📫 [Email](mailto:paddlepop15@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pattanapong-paspisanu-24753a207)
+Full-stack software developer with about 8 years of experience (2018 - present). Currently a System Analyst (SA) and Dev Lead for teams of 3-5 on government and state-enterprise projects for Airports of Thailand, the Department of Highways and the Ministry of Defence. Works mainly in PHP (Laravel), Go and Node.js / TypeScript (NestJS) on the back-end and React / Next.js on the front-end. Strongest in system and architecture design, SAP S/4HANA integration, and bank payment integration (KTB, SCB, TTB). Built resident platforms used across about 500 real-estate projects, deployed with Docker and Kubernetes on AWS.
 
----
+## Technical Skills
 
-## 🛠 Tech Stack
+**Back-end (Backend):** PHP / Laravel, Go / Golang (3 yrs), Node.js / TypeScript: NestJS (2 yrs), Fastify
 
-| Area | Tools |
-| --- | --- |
-| Back-end | Go, NestJS, Laravel, Fastify |
-| Front-end | Next.js, React, React Admin, Tailwind CSS, shadcn/ui, Radix UI |
-| Database | PostgreSQL, MySQL, MSSQL, Redis |
-| Messaging | RabbitMQ |
-| Auth | JWT, Keycloak, Azure AD, Basic Auth |
-| Cloud (AWS) | S3, EC2, ECR, CloudFront, RDS |
-| DevOps | Docker, Docker Compose, Docker Swarm, Kubernetes |
-| Automation | n8n (ETL/ELT workflows) |
-| Testing | Unit testing, E2E testing, Playwright, Chrome DevTools |
-| Design & Docs | dbdiagram, Mermaid, Confluence |
-| Tools | VS Code, Postman, Bruno, DBeaver, Ubuntu / Linux CLI |
-| AI | Claude Code, Claude (chat, scheduled tasks, artifacts), ECC |
+**API Design:** REST API, gRPC, Webhook, WebSocket, contract-first with Postman and Bruno
 
----
+**Front-end (Frontend):** JavaScript / TypeScript, Next.js (1 yr), React (2 yrs), React Admin, Tailwind CSS, shadcn/ui (6 mos), Radix UI (6 mos)
 
-## 💡 How I Work
+**Authentication:** Basic Auth, JWT, Keycloak, Azure AD
 
-- **Back-end design:** monorepo structures for microservices, and the right design pattern for each problem (Repository, Factory, Strategy, Observer, Adapter, Decorator).
-- **System design:** system architecture, server sizing, and code repository structure.
-- **Testing:** unit and E2E tests with Playwright.
-- **AI-assisted development:** built Claude commands for daily team routines such as deployment and deploy notes, cutting deployment time from **~2 hours to 10 minutes**.
-- **Single source of truth:** I summarize project knowledge into one reference so the AI works from the same context as the team.
+**Messaging:** RabbitMQ (2 yrs)
 
----
+**Database:** SQL, PostgreSQL, MySQL, MSSQL (SQL Server), Redis
 
-## 🚀 Featured Projects
+**Cloud (AWS):** S3, EC2, ECR, CloudFront, RDS
 
-### AOT E-Invoice — Airports of Thailand · *SA, Dev Lead*
-Web portal where **~2,000 airport tenant companies** view and pay invoices online.
-- Gathered requirements with AOT, designed the bank integration flow, and split work and reviewed code for the team.
-- Two-way integration with **SAP S/4HANA**: invoices, credit notes, clear/reverse status, and automatic posting of payment results.
-- Payment integration with **KTB, SCB and TTB** (Thai QR, pay-in slip, redirect pay, bill payment) plus international transfers.
-- Customer Portal and Admin Portal with Azure AD sign-in.
+**DevOps / Container:** Docker, Docker Compose, Docker Swarm, Kubernetes, Git, GitLab CI/CD, SonarQube
 
-### M-Flow — Department of Highways · *SA, Dev Lead*
-Platform for administrative fine cases at the Bureau of Intercity Motorways, where officers compile case documents for the courts and public prosecutors.
+**Automation / Data:** n8n (ETL/ELT workflows)
 
-### SDO — Ministry of Defence · *SA, Developer*
-Migration of an internal website to a new system, including a performance evaluation system for civil servants, government employees and staff.
+**System Design:** System architecture design, Server sizing, Monorepo for microservices, Design patterns, dbdiagram, Mermaid
 
-### SSM Juristic Application — AP · *SA, Dev Lead (Back-end)*
-Platform for the juristic persons of **~300** AP condominium and housing projects.
+**Testing:** Unit testing, E2E testing, Playwright, Chrome DevTools
 
-### Resident Platforms · *Back-end & Back-office Developer*
-Mobile and web apps for residents across **~500 real-estate projects**:
-Smart World (AP, ~300) · SABAI (Supalai, ~90) · Primo Plus (Origin Property, ~70) · Home+ (Frasers Property, ~40)
+**Tools / OS:** Ubuntu, Linux command line (basic), VS Code, Postman, Bruno, DBeaver, Confluence
 
-### Venue — Forviz in-house product
-ETL/ELT automation with **n8n** to pull data from source systems into the platform.
+**AI Tools:** Claude Code, Claude (chat, scheduled tasks, artifacts), ECC (affaan-m/ecc), skills: archify, humanizer
 
-### Toyota CPS and Trim Pricing System — Toyota Motor / TDEM · *Developer*
-Web application for managing Toyota auto-part pricing.
+## Key Strengths
 
----
+- **Back-end design:** Design monorepo structures for microservices and pick the design pattern that fits each problem, such as Repository, Factory, Strategy, Observer, Adapter or Decorator.
+- **Testing:** Write unit and E2E tests with Playwright and debug with Chrome DevTools.
+- **Automation with AI:** Built Claude commands for the team's daily routines, such as deployment and deploy notes. Deployment time went from about 2 hours to 10 minutes.
+- **Structured AI workflow:** Keep project knowledge in a single source of truth that AI tools reference while working, and share work with the team through Claude artifacts.
+- **API design:** Choose the API style that fits each integration (REST, gRPC, Webhook, WebSocket) and work contract-first: the API contract is defined and shared in Postman or Bruno before implementation starts.
+- **CI pipeline:** Built and maintain GitLab CI/CD pipelines that run unit tests, scan with SonarQube, then build Docker images.
 
-## 💼 Experience
+## Work Experience
 
-**Forviz Co., Ltd.** — Developer / System Analyst / Dev Lead · 2020 – present
+### Developer / System Analyst / Dev Lead | Forviz Co., Ltd.
 
-**Two Fellows Network and Design Co., Ltd.** — Back-end Developer · 2018 – 2020
-Projects for EXIM Bank of Thailand, National Housing Authority (MySQL → Oracle migration) and Department of Industrial Promotion.
+2020 - present (about 6 years)
 
----
+Lead a team of 3-5 engineers from system analysis and design through delivery of web and mobile applications for government and enterprise clients, from requirements gathering to production deployment.
 
-## 🎓 Education
+**Business**
 
-**Suan Sunandha Rajabhat University** · 2014 – 2018
-B.Sc. in Information Technology
+- Reviewed the sales backlog with the COO to find revenue opportunities and set monthly priorities, which gave the team a clearer view of the pipeline.
+
+Project: AOT E-Invoice (Airports of Thailand PCL) | Role: System Analyst / Dev Lead | Web Application | 2026 - present
+
+- Web portal where about 2,000 airport tenant companies view and pay their invoices online on their own, integrated with SAP S/4HANA in both directions.
+- As System Analyst / Dev Lead: gathered requirements with AOT, designed the bank integration flow, split the work and reviewed code for a team of 3-5.
+- SAP integration: receives invoices, credit notes and attachments, updates clear/reverse status, and posts payment results back to accounting automatically.
+- Payment integration with 3 banks: KTB (Page-2-Page, Pay-in Slip DirectLink, Thai QR Tag 30), SCB (Pay-in Slip host-to-host, Redirect Pay), TTB (Bill Payment verify/confirm), plus international transfers.
+- Customer Portal: registration, invoice dashboard, payment cart, payment history, support tickets, news and FAQ, and delegated access for users in the same organization.
+- Admin Portal: Azure AD sign-in, customer and registration management, bank payment callback review, international transfer approval, ticket replies, announcements and reports.
+
+Project: SDO, Ministry of Defence | Role: System Analyst / Developer | Web Application | 2025 - 2026
+
+- Analyzed and designed the migration of an internal website from the legacy system to a new one.
+- Designed and built the performance evaluation system for civil servants, government employees and staff.
+
+Project: Venue (Forviz in-house product) | 2025 - 2026
+
+- Built ETL/ELT automation with n8n to pull data from source systems into the platform.
+
+Project: M-Flow (Department of Highways) | Role: System Analyst / Dev Lead | Web Application | 2023 - 2025
+
+- Integrated platform for administrative fine cases at the Bureau of Intercity Motorways, where officers compile case documents and submit them to the courts and public prosecutors.
+
+Project: Toyota CPS and Trim Pricing System (Toyota Motor / TDEM) | Role: Developer | Web Application | 2023 - 2025
+
+- Built a web application for managing prices across thousands of auto parts, which cut the manual data entry pricing analysts had been doing.
+- Implemented the back-end services in Go and the front-end screens, so price updates reach TDEM operations in real time.
+
+Project: SSM Juristic Application (AP) | Role: System Analyst / Dev Lead for Back-end | Mobile and Web Application | 2020 - 2023
+
+- Platform for the juristic persons of about 300 AP condominium and housing projects, used together with Smart World.
+
+Project: Resident platforms for real-estate developers | Role: Developer for Back-end and Back-office | Mobile and Web Application | 2020 - 2023
+
+- Smart World (AP): about 300 projects. Delivered version 2.0, including a notification queue on Firebase Cloud Messaging that supports 100,000 messages.
+- SABAI (Supalai): about 90 projects
+- Primo Plus / Primo Service and Solution (Origin Property): about 70 projects
+- Home+ (Frasers Property): about 40 projects
+
+### Back-end Developer | Two Fellows Network and Design Co., Ltd.
+
+2018 - 2020
+
+- **EXIM Knowledge Center** (Export-Import Bank of Thailand): built News & Blogs content that adapts to each employee's department and interests, plus an internal chat system.
+- **National Housing Authority:** developed the internal website and migrated the database from MySQL to Oracle.
+- **Department of Industrial Promotion:** maintained and debugged the back-end systems and fixed critical production issues.
+
+## Education
+
+**Suan Sunandha Rajabhat University** | 2014 - 2018
+
+Bachelor of Science (B.Sc.) in Information Technology, Faculty of Science and Technology
