@@ -2,7 +2,7 @@
 
 Senior Software Engineer | Full-stack Developer | System Analyst | Team Lead
 
-Phone: +66 97-232-1135 | Email: [paddlepop15@gmail.com](mailto:paddlepop15@gmail.com) | LinkedIn: [linkedin.com/in/pattanapong-paspisanu-24753a207](https://www.linkedin.com/in/pattanapong-paspisanu-24753a207)
+Email: [paddlepop15@gmail.com](mailto:paddlepop15@gmail.com) | LinkedIn: [linkedin.com/in/pattanapong-paspisanu-24753a207](https://www.linkedin.com/in/pattanapong-paspisanu-24753a207)
 
 ## Professional Summary
 
